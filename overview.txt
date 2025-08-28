@@ -35,4 +35,8 @@ semester, students will gradually design, implement, test, and evaluate a
 simple calculator, a music player, and a programmable processor capable
 of running simple RISC-V assembly programs.
 
+<<<<<<< HEAD
 computational tuah
+=======
+electrical tuah
+>>>>>>> e58b04c718bbadeda740a44949c044f88bbff41c
